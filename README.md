@@ -16,13 +16,13 @@
 <br/>
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#features">Features</a> •
- <a href="#layout">Layout</a> • 
- <a href="#como-executar">Como executar</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a> •
- <a href="#licença">Licença</a>
+ <a href="#-sobre">Sobre</a> •
+ <a href="#%EF%B8%8F-features">Features</a> •
+ <a href="#%EF%B8%8F-layout">Layout</a> • 
+ <a href="#-como-executar">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> •
+ <a href="#%EF%B8%8F-licença">Licença</a>
 </p>
 <br/>
 
@@ -112,14 +112,11 @@ Antes de começar, você vai precisar criar uma conta, caso ainda não possua no
 
 As seguintes ferramentas de programação foram usadas na construção do projeto:
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <br/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <br/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <br/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <br/>
@@ -127,10 +124,8 @@ As seguintes ferramentas de programação foram usadas na construção do projet
 
 Usamos também as seguintes ferramentas de terceiros:
 
-<img alt="Fauna DB" src="https://redmonk.com/rstephens/files/2020/10/Fauna-logo-blue.png" width=80px style="background:white; padding:5px 9px">
-</br>
-<img alt="Stripe" src="https://shields.io/badge/stripe-white?logo=stripe&style=for-the-badge">
-</br>
+<img alt="Fauna DB" src="https://redmonk.com/rstephens/files/2020/10/Fauna-logo-blue.png" width=80px style="background:white; padding:5px 9px"> <br/>
+<img alt="Stripe" src="https://shields.io/badge/stripe-white?logo=stripe&style=for-the-badge"> <br/>
 <img alt="Prismic" src="https://shields.io/badge/prismic-9cf?logo=prismic&style=for-the-badge">
 
 <br/>
